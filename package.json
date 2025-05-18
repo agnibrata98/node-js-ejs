@@ -1,0 +1,17 @@
+{
+  "name": "first_assignment",
+  "version": "1.0.0",
+  "description": "ejs basics assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "agnibrata",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
